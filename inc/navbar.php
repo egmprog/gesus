@@ -19,7 +19,7 @@
         <div class="navbar-start">
 
             <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link">Usuarios</a>
+                <a class="navbar-link">Usuarios (editores)</a>
 
                 <div class="navbar-dropdown">
                     <a href="index.php?vista=user_new" class="navbar-item">Nuevo</a>
@@ -37,7 +37,7 @@
         <div class="navbar-start">
 
             <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link">Usuarios</a>
+                <a class="navbar-link">Usuarios (lectores)</a>
 
                 <div class="navbar-dropdown">
                     
